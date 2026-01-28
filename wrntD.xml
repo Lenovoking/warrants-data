@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Warrant>
-  <FullName>Josezf Merz</FullName>
-  <PersonalID>837774</PersonalID>
-  <Reason>Illegal Immigration</Reason>
-  <Date>2025-01-28</Date>
-</Warrant>
+<Warrants>
+    <Warrant>
+        <FullName>Carlos Hernandez</FullName>
+        <PersonalID>9377463</PersonalID>
+        <Reason>Illegal immigration, DUI, Possesion of illegal substances</Reason>
+        <Date>2026-01-28</Date>
+    </Warrant>
+    <Warrant>
+        <FullName>Xavier Munez</FullName>
+        <PersonalID>1637664</PersonalID>
+        <Reason>Assault with the deadly weapon, Homicide, Evading arrest</Reason>
+        <Date>2026-01-29</Date>
+    </Warrant>
+</Warrants>
